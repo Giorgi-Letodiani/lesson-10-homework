@@ -1,0 +1,16 @@
+@media (max-width: 1000px){
+	.burger-icon{
+		display: block;
+	}
+	.ul-flex, .search-img{
+		display: none;
+	}
+	.map-img{
+		padding: 8% 0%;
+	}
+}
+@media(max-width: 400px){
+	.wrapper-footer{
+		flex-wrap: wrap;
+	}
+}
